@@ -4,7 +4,7 @@
 
 A rigorous statistical experiment on 96,478 real Brazilian e-commerce orders using propensity score matching, Mann-Whitney U testing, and segment analysis across 8 states.
 
-🔴 **[Live Dashboard](https://ecommerce-ab-test-vrp26wcrrs9scvzhdzuejf.streamlit.app)** | 📄 **[Business Memo](memo/recommendation_memo.md)** | 📓 **[Project Brief](memo/project_brief.md)**
+🔴 **[Live Dashboard](https://shiva-ab-test.streamlit.app/)** | 📄 **[Business Memo](memo/recommendation_memo.md)** | 📓 **[Project Brief](memo/project_brief.md)**
 
 ---
 
